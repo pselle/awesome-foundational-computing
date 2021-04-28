@@ -14,6 +14,8 @@ This [awesome list](https://github.com/sindresorhus/awesome/) is a curated list 
 
 ### Structure and Interpretation of Computer Programs
 
+- [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - MIT Press by Abelson, Sussman, and Sussman.
+
 ### A Pattern Language
 
 ## Databases
